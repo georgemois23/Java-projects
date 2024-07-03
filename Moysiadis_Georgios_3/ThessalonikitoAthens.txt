@@ -1,0 +1,10 @@
+CITY: Thessaloniki, Greece
+Airport: Macedonia (SKG)
+
+Destination: Athens
+
+DIRECT FLIGHTS DETAILS
+[1]Flight operated by Aegean, duration 30 minutes
+
+INDIRECT FLIGHTS through...
+There are not indirect flights
